@@ -1,0 +1,7 @@
+VAR
+  x, y, w;
+BEGIN
+  x:=7;
+  y:=4;
+  w:=x*y;
+END
